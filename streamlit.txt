@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+geopandas
+shapely
+matplotlib
+contextily
+imageio
+pytz
+mplcursors
